@@ -1,6 +1,6 @@
 {
     "facturas": [
-        [
+        
             {
                 "id": 1,
                 "fecha": "2020-01-01",
@@ -59,8 +59,6 @@
                 "id": 10,
                 "fecha": "2020-10-01",
                 "monto": 55,
-                "descripcion": "Example Description 10"
-            }
-        ]
+                "descripcion": "Example Description 1"
     ]
 }
